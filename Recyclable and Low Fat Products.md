@@ -1,14 +1,12 @@
 ### Intuition
-<!-- Describe your first thoughts on how to solve this problem. -->
 I need to find the ID of products that are both low fat and recylable using Where, AND.
 
-# Approach
-<!-- Describe your approach to solving the problem. -->
+### Approach
 Using Select, Where, And.
-# Code
-```
+### Code
+````
 /* Write your T-SQL query statement below */
 SELECT product_id 
 FROM Products AS p
 WHERE p.low_fats = 'Y' AND p.recyclable = 'Y'
-```
+````
