@@ -1,6 +1,7 @@
 # SQL-50-LeetCode
 ### Overview: 
 This repository contains my solutions tO 50 SQL problems from LeetCode. Each solution is written in SQL and aims to solve a specific problem presented on LeetCode's platform.
+My LeetCode ID: khoaptk
 ### Motivation:
 This repository serves as a resource for SQL enthusiasts, providing solutions to 50 LeetCode SQL problems. By sharing my approaches openly, I aim to foster a collaborative learning environment, track my progress, and contribute positively to the programming community.
 ### List of Problems:
